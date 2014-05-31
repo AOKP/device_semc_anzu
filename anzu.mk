@@ -42,5 +42,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Hardware Info
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.device.rear_cam=8 MP Exmor R \
+    ro.device.rear_cam="8 MP Exmor R" \
     ro.device.screen_res=480x854
